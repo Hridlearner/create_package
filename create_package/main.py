@@ -1,7 +1,20 @@
-import numpy as np
+class calculator:
 
-a = np.array([1,2,30,4])
-b = np.array([4,5,6,7])
+    def add(x, y):
+        print(f"sum of {x} and{y} is {x+y}")
+        return x+y
 
-res = np.add(a, b)
-print(f"Original array = {res} sum of the array = {np.sum(res)}")
+    def mul(x, y):
+        print(f"multiplication of {x} and{y} is {x*y}")
+        return x+y
+
+    def div(x, y):
+        print(f"divison of {x} and{y} is {x/y}")
+        return x+y
+
+    def minus(x, y):
+        print(f"minus of {x} and{y} is {x-y}")
+        return x+y
+
+    
+    
