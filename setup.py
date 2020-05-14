@@ -21,3 +21,8 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
 )
+
+# RUN
+# python setup.py sdist bdist_wheel
+
+#push to the master branch
