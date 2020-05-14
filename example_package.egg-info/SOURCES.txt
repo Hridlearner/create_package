@@ -2,7 +2,6 @@ README.md
 setup.py
 create_package/__init__.py
 create_package/class_file.py
-create_package/use_class.py
 example_package.egg-info/PKG-INFO
 example_package.egg-info/SOURCES.txt
 example_package.egg-info/dependency_links.txt

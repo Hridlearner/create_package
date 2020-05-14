@@ -5,13 +5,14 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example_package", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="hrid",
     author_email="hrid.bis@outlook.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Hridlearner/create_package",
+    #url="https://github.com/Hridlearner",
     packages=['create_package'],
     install_requires=[],
     classifiers=[
