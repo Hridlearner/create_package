@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: example-package
-Version: 0.0.2
+Version: 0.0.3
 Summary: A small example package
-Home-page: https://github.com/Hridlearner/create_package
+Home-page: https://github.com
 Author: hrid
 Author-email: hrid.bis@outlook.com
 License: UNKNOWN
