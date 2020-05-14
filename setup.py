@@ -23,7 +23,10 @@ setuptools.setup(
     python_requires='>=3.6',
 )
 
-# RUN
+# after changing the code eachtime (it will create the wheel file)
 # python setup.py sdist bdist_wheel
 
-#push to the master branch
+#push to the github or your cloud 
+
+# go to your local powershell and run below line (path of the repos)
+#pip install git+https://github.com/Hridlearner/create_package
