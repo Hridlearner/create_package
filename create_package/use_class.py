@@ -4,6 +4,7 @@ def test():
     ob = class_file.Calculator()
     #show add res
     ob.add(6,9)
+    ob.add(40,60)
 
 
 
